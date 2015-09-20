@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1442784237 source:d:\felipe\arquivos\programming\trabalhos\robotsoccer\soccerplayer_example\environm.cpp
+	"environm.h"
+	"soccerdef.hpp"
+	<cstdlib>
+
+1115771746 d:\felipe\arquivos\programming\trabalhos\robotsoccer\soccerplayer_example\environm.h
+	"sock.hpp"
+	"geom.hpp"
+
+1253590792 d:\felipe\arquivos\programming\trabalhos\robotsoccer\soccerplayer_example\sock.hpp
+	<stdexcept>
+	"basetp.hpp"
+
+1104760520 d:\felipe\arquivos\programming\trabalhos\robotsoccer\soccerplayer_example\basetp.hpp
+
+1111970720 d:\felipe\arquivos\programming\trabalhos\robotsoccer\soccerplayer_example\geom.hpp
+	<math.h>
+
+1100210750 d:\felipe\arquivos\programming\trabalhos\robotsoccer\soccerplayer_example\soccerdef.hpp
+
+1442786204 source:d:\felipe\arquivos\programming\trabalhos\robotsoccer\soccerplayer_example\soccerplayerexample.cpp
+	"environm.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1253590852 source:d:\felipe\arquivos\programming\trabalhos\robotsoccer\soccerplayer_example\sock.cpp
+	"sock.hpp"
+	<winsock2.h>
+	<mem.h>
+	<memory.h>
+	<errno.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<unistd.h>
+
